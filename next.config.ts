@@ -1,8 +1,5 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  // Vercel でのファイルトレース警告を抑制
-  outputFileTracingRoot: require("path").join(__dirname, "../"),
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
