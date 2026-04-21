@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "name": "JAFCO コーポレートサイトリニューアル",
+    "client": "ジャフコ グループ",
+    "cats": [
+      "direction",
+      "web",
+      "uiux",
+      "pm"
+    ],
+    "year": "2025",
+    "featured": true,
+    "thumbnail": "/uploads/works/1776744332819-1o59lwod9d2.png",
+    "url": "https://www.jafco.co.jp/"
+  },
+  {
+    "id": 3,
+    "name": "niwacan",
+    "client": "",
+    "cats": [
+      "direction",
+      "brand",
+      "pm",
+      "web"
+    ],
+    "year": "2025",
+    "featured": false,
+    "thumbnail": "/uploads/works/1776744606243-l1alwf5adhj.png",
+    "url": "https://niwacan.jp/"
+  },
+  {
+    "id": 10,
+    "name": "インタラクティブ年次報告書",
+    "client": "KOTONARI",
+    "cats": [
+      "web",
+      "graphic",
+      "direction",
+      "brand"
+    ],
+    "year": "2024",
+    "featured": false,
+    "thumbnail": "https://shop.monkey-fruits.jp/cdn/shop/files/ogp.png",
+    "url": "https://shop.monkey-fruits.jp/"
+  },
+  {
+    "id": 9,
+    "name": "LIFULL 採用サイト",
+    "client": "LIFULL",
+    "cats": [
+      "web",
+      "pm",
+      "direction"
+    ],
+    "year": "2025",
+    "featured": false,
+    "thumbnail": "https://recruit.lifull.com/assets/img/ogp.png",
+    "url": "https://recruit.lifull.com/"
+  },
+  {
+    "id": 2,
+    "name": "イマーシブ・フォート東京 サイトリニューアル",
+    "client": "刀",
+    "cats": [
+      "web",
+      "direction",
+      "pm",
+      "movie",
+      "graphic"
+    ],
+    "year": "2024",
+    "featured": false,
+    "thumbnail": "/uploads/works/1776744346871-pkl3o35uuw.png",
+    "url": "https://immersivefort.com/"
+  },
+  {
+    "id": 4,
+    "name": "EXPO 2025 大阪・関西万博 日本館公式サイト",
+    "client": "経済産業省・nendo",
+    "cats": [
+      "web",
+      "direction",
+      "pm"
+    ],
+    "year": "2024",
+    "featured": true,
+    "thumbnail": "/uploads/works/1776744777566-ljffdwjnj4.png",
+    "url": "https://www.ndc.co.jp/projects/japan-pavilion-expo-2025/"
+  },
+  {
+    "id": 6,
+    "name": "flumpool「花になれ (Ryu-Take 2023 ver.)」Concept Film",
+    "client": "A-Sketch",
+    "cats": [
+      "movie",
+      "direction",
+      "planning"
+    ],
+    "year": "2023",
+    "featured": false,
+    "thumbnail": "/uploads/works/1776747389270-fcrxect5io.png",
+    "url": "https://www.youtube.com/watch?v=CIUVmVlBq54"
+  },
+  {
+    "id": 5,
+    "name": "suin ブランディング",
+    "client": "SANEI",
+    "cats": [
+      "pm",
+      "direction",
+      "web",
+      "graphic"
+    ],
+    "year": "2023",
+    "featured": false,
+    "thumbnail": "/uploads/works/1776744510581-kzmfa8o03l9.png",
+    "url": "https://www.aid-dcc.com/works/suin/"
+  },
+  {
+    "id": 11,
+    "name": "お茶のはまだ ブランドムービー",
+    "client": "浜田茶業",
+    "cats": [
+      "movie",
+      "direction",
+      "planning"
+    ],
+    "year": "2022",
+    "featured": false,
+    "thumbnail": "/uploads/works/1776747709892-0isr88ejrhk.webp",
+    "url": "https://www.youtube.com/watch?v=-y4Z_9r24ng"
+  },
+  {
+    "id": 13,
+    "name": "Earth hacks",
+    "client": "三井物産・博報堂",
+    "cats": [
+      "direction",
+      "pm",
+      "web"
+    ],
+    "year": "2022",
+    "featured": false,
+    "thumbnail": "https://co.earth-hacks.jp/earthhacks-corporate/assets/img/earthco_og.jpg",
+    "url": "https://co.earth-hacks.jp/"
+  },
+  {
+    "id": 14,
+    "name": "NB HANZO SERIES‘21",
+    "client": "NEW BALANCE",
+    "cats": [
+      "direction",
+      "graphic"
+    ],
+    "year": "2021",
+    "featured": false,
+    "thumbnail": "/uploads/works/1776748102043-08s1u1goh2at.jpg",
+    "url": ""
+  },
+  {
+    "id": 7,
+    "name": "CRAZY Webサイトリニューアル",
+    "client": "CRAZY",
+    "cats": [
+      "web",
+      "brand",
+      "direction",
+      "uiux",
+      "pm"
+    ],
+    "year": "2020",
+    "featured": false,
+    "thumbnail": "https://www.crazy.co.jp/wp-content/uploads/2020/09/ogimage-crazyinc.png",
+    "url": "https://www.crazy.co.jp"
+  },
+  {
+    "id": 8,
+    "name": "A･NA･TA for Dream",
+    "client": "HELLO NEW DREAM. PROJECT",
+    "cats": [
+      "direction",
+      "uiux",
+      "pm",
+      "web"
+    ],
+    "year": "2020",
+    "featured": true,
+    "thumbnail": "/uploads/works/1776746787454-jsyvc49ru.png",
+    "url": "https://www.nicovideo.jp/watch/sm37522967"
+  },
+  {
+    "id": 12,
+    "name": "nazo by nexus",
+    "client": "google Japan",
+    "cats": [
+      "planning",
+      "direction",
+      "pm",
+      "movie"
+    ],
+    "year": "2016",
+    "featured": true,
+    "thumbnail": "/uploads/works/1776747823014-pv72qi63bx.webp",
+    "url": "https://www.youtube.com/playlist?list=PLLkq-mu9c_kb7KGFe9jmlVZX3qB-yLfa9"
+  },
+  {
+    "id": 15,
+    "name": "ありえない日本昔話 桃?太郎",
+    "client": "ゼスプリ",
+    "cats": [
+      "direction",
+      "planning",
+      "pm",
+      "web"
+    ],
+    "year": "2015",
+    "featured": false,
+    "thumbnail": "/uploads/works/1776748229137-75l0f86cb5c.jpg",
+    "url": "https://www.atpress.ne.jp/news/64837"
+  },
+  {
+    "id": 16,
+    "name": "FRISK伝説 復活のライムミント",
+    "client": "クラシエフーズ",
+    "cats": [
+      "web",
+      "pm",
+      "planning",
+      "direction"
+    ],
+    "year": "2015",
+    "featured": false,
+    "thumbnail": "/uploads/works/1776748350457-jcnwa1sxrge.jpg",
+    "url": "https://game.watch.impress.co.jp/docs/news/732255.html"
+  }
+]
